@@ -27,7 +27,7 @@ export default function Home() {
               href="/about"
               className="text-sm font-semibold leading-6 text-gray-900 hover:text-gray-700"
             >
-              About Us <span aria-hidden="true">&rarr;</span>
+              About Us!!! <span aria-hidden="true">&rarr;</span>
             </a>
           </div>
         </div>
